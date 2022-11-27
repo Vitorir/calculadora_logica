@@ -1,0 +1,16 @@
+#buttoncss{
+    height: 50px;
+    width: 50px;
+}
+#equal,#true,#false,#backspace{
+    height: 50px;
+    width: 137.5px;
+}
+#answer-table{
+    background-color: #a187c2;
+}
+
+tr:nth-child(even) {
+    background-color: #ececec;
+    
+}
